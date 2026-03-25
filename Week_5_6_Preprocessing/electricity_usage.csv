@@ -1,0 +1,6 @@
+House_ID, Monthly_Avg_Consumption (kWh), Peak_Consumption (kWh), Owner_Type (Local/NRI/Retired), House_Age (years), Distance_to_Substation (km), House_Value (Lakhs), Low_Usage_Flag
+E1,120,450, NRI,5,18,200, Yes
+E2,350,600, Local,10,5,60, No
+E3, ?,700, NRI,8,25,350, Yes
+E4,220,4000, Retired,15, ?,90, No
+E5,90,300, Local,3,12,40, Yes
